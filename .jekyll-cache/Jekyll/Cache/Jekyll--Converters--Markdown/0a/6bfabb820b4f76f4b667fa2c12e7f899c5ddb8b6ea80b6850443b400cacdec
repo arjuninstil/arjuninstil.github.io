@@ -1,6 +1,6 @@
-I"”h<h1 id="introduction-to-text-analysis-viii">Introduction to text analysis VIII</h1>
+I"zh<h1 id="basic-topic-modelling">Basic Topic Modelling</h1>
 
-<h2 id="topic-detection">topic detection</h2>
+<h2 id="topic-detection">Topic detection</h2>
 
 <p>Topic detection is a way to extract relevant information from texts. The topic is a set of words (from the text) having particular relevance in terms of probability. They apper to be words that characterize the topics (one or more) discussed in the documents.</p>
 
